@@ -1,0 +1,6 @@
+ZCircularGauge ZCircularGauge.qml
+SCircularGauge SCircularGauge.qml
+ZGauge ZGauge.qml
+ZTumbler ZTumbler.qml
+ZButton ZButton.qml
+SmoRow SmoRow.qml

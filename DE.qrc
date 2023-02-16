@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>png/blocks.png</file>
+        <file>png/cancel.png</file>
+        <file>png/clock.png</file>
+        <file>png/clock_old.png</file>
+        <file>png/control.png</file>
+        <file>png/data.png</file>
+        <file>png/date.png</file>
+        <file>png/delete.png</file>
+        <file>png/device.png</file>
+        <file>png/deviceAdd.png</file>
+        <file>png/error.png</file>
+        <file>png/folder.png</file>
+        <file>png/gear.png</file>
+        <file>png/group0.png</file>
+        <file>png/group1.png</file>
+        <file>png/group2.png</file>
+        <file>png/group3.png</file>
+        <file>png/help.png</file>
+        <file>png/info.png</file>
+        <file>png/key.png</file>
+        <file>png/key_delete.png</file>
+        <file>png/link.png</file>
+        <file>png/next.png</file>
+        <file>png/off.png</file>
+        <file>png/ok.png</file>
+        <file>png/PC.png</file>
+        <file>png/PCadd.png</file>
+        <file>png/PCnet.png</file>
+        <file>png/play.png</file>
+        <file>png/refresh.png</file>
+        <file>png/save.png</file>
+        <file>png/stop.png</file>
+        <file>png/usb.png</file>
+        <file>png/UserGroup.png</file>
+        <file>png/warning.png</file>
+        <file>png/write.png</file>
+        <file>png/Well.png</file>
+    </qresource>
+</RCC>
